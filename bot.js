@@ -20,7 +20,7 @@ client.on('message', message => {
 	let embed = new Discord.RichEmbed()
     .setAuthor(`${message.author.tag}`, message.author.avatarURL)
 	.setColor('#000000')
-	.setFooter("بوت القرآن | صدقة جارية للجميع", 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqVT5PZAfcy8qZxlr3SQv3mmCw9zPiu2YBLIQ4bBePL2jLm7h')
+	.setFooter("بوت القرآن | صدقة جارية للجميع :mosque:  ")
       .setDescription(` 
      🕋 اوامر بوت القرآن الكريم 🕋
 	 
